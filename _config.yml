@@ -39,11 +39,8 @@ mailchimp_input: b_5ab1895e8fb180aed0ac6591e_a5569c92b6
 
 # Author settings
 author:
-  - name: Thomas Vaeth
-    bio: Thomas Vaeth was born in New York, raised in Pennsylvania, and transplanted in Washington. He was a Web Developer at Urban Influence, but now he's a Software Engineer at Getty Images.
-    url: http://thomasvaeth.com
   - name: Matej Šimunić
-    bio: digitalni nomad i zaljubljenik u umjetnost
+    bio: digitalni nomad, zaljubljenik u umjetnost i strastveni putnik.
     url: http://matejthetree.github.com
 
 # Build settings
