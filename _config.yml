@@ -1,46 +1,50 @@
 # Site/SEO settings
-email: okay@samesies.io
+email: matejthetree@gmail.com
 baseurl: ""
 paginate: 12
 paginate_path: "/page/:num"
 permalink: /:year/:month/:day/:title/
-google_analytics: 
+google_analytics:
 
-name: Thomas Vaeth
-title: The Barber Theme
+name: Art Nomad Project
+title: anProject
 description: >
-  Barber is a blog theme for Jekyll built by Thomas Vaeth for Samesies using HTML, Sass, and JavaScript.
-url: http://barber.samesies.io
-twitter_username: thomasvaeth
+  travel and create
+url: http://artnomadproject.com
+#twitter_username: thomasvaeth
 default_img: /assets/images/seo.jpg
-social:
-  - name: twitter
-    url: https://twitter.com/thomasvaeth
-  - name: instagram
-    url: https://www.instagram.com/thomas.vaeth/
-  - name: linkedin
-    url: https://www.linkedin.com/in/thomasvaeth/
-  - name: github
-    url: https://github.com/samesies
-  - name: codepen
-    url: https://codepen.io/thomasvaeth/
+#social:
+#  - name: twitter
+#    url: https://twitter.com/thomasvaeth
+#  - name: instagram
+#    url: https://www.instagram.com/thomas.vaeth/
+#  - name: linkedin
+#    url: https://www.linkedin.com/in/thomasvaeth/
+#  - name: github
+#    url: https://github.com/samesies
+#  - name: codepen
+#    url: https://codepen.io/thomasvaeth/
 
 # Contact settings
 contact_img: /assets/images/placeholder-28.jpg
-formcarry: https://formcarry.com/s/HkIo0nMb7
+formcarry: https://formcarry.com/s/aMdYLtgI79U
+
 
 # Disqus settings
-disqus: test-apkdzgmqhj
+disqus: artnomadproject-com
 
 # MailChimp settings
-mailchimp_action: https://samesies.us17.list-manage.com/subscribe/post-json?u=66ddf555dab480e6a8606430b&amp;id=89b3ee034f
-mailchimp_input: b_66ddf555dab480e6a8606430b_89b3ee034f
+mailchimp_action: https://artnomadproject.us19.list-manage.com/subscribe/post-json?u=5ab1895e8fb180aed0ac6591e&id=a5569c92b6
+mailchimp_input: b_5ab1895e8fb180aed0ac6591e_a5569c92b6
 
 # Author settings
 author:
   - name: Thomas Vaeth
     bio: Thomas Vaeth was born in New York, raised in Pennsylvania, and transplanted in Washington. He was a Web Developer at Urban Influence, but now he's a Software Engineer at Getty Images.
     url: http://thomasvaeth.com
+  - name: Matej Šimunić
+    bio: digitalni nomad i zaljubljenik u umjetnost
+    url: http://matejthetree.github.com
 
 # Build settings
 markdown: kramdown
