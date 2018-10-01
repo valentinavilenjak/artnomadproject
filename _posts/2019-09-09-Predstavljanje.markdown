@@ -13,7 +13,7 @@ tags:
   - Igor
 ---
 
-Dana 27. i 30. rujna ćemo imati predstavljanje projekta u Puli. Kao polaznici projekta su odabrani Valentina Grubačević, Nikola Faller i Igor Popović. U nastavku teksta slijedi program predstavljanja...
+Dana 27. i 30. rujna imati ćemo predstavljanje projekta u Puli. Kao polaznici projekta su odabrani Valentina Grubačević, Nikola Faller i Igor Popović. U nastavku teksta slijedi program predstavljanja...
 
 ![Placeholder](/assets/images/cesta-ljudi.jpg#full)
 
@@ -26,7 +26,7 @@ Na kraju predstavljanja, skulptura će se porinuti u more.
 Valentina će svoj rad predstaviti u nedjelju, 30. rujna. Lokacija će biti naknadno objavljena.
 
 ## Igor Popović
-Igor će fotografirati radove Valentine i Nikole, te ćemo te fotke predstaviti na http://www.anproject.com u prvom tjednu listopada.
+Igor će fotografirati radove Valentine i Nikole, te ćemo te fotografije predstaviti na http://www.anproject.com u prvom tjednu listopada.
 
 Nakon predstavljanja, objaviti ćemo više detalja o svakom umjetniku na našoj web stranici.
 
